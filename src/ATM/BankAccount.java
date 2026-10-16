@@ -1,4 +1,4 @@
-package MiniBank;
+package ATM;
 
 public class BankAccount {
     private float balance;

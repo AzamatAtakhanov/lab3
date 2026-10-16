@@ -1,4 +1,4 @@
-package MiniBank;
+package ATM;
 
 import java.util.Scanner;
 
